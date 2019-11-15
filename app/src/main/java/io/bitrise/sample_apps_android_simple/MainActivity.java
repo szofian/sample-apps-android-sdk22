@@ -1,4 +1,4 @@
-package com.bitrise_io.sample_apps_android_simple;
+package io.bitrise.sample_apps_android_simple;
 
 import android.content.Context;
 import android.graphics.Point;
