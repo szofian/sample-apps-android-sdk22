@@ -17,6 +17,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <uses-library android:name="bitrise.fake.lib.should.not.exist" />
     </application>
+
 
 </manifest>
